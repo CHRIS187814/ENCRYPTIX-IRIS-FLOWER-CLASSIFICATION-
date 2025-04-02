@@ -26,8 +26,6 @@ Project Structure
 Installation
 
 To set up the project, clone the repository and install dependencies:
-
-git clone https://github.com/yourusername/iris-flower-classification.git
 cd iris-flower-classification
 pip install -r requirements.txt
 
@@ -69,5 +67,5 @@ This project is licensed under the MIT License.
 
 Contact
 
-For any questions, feel free to reach out via GitHub or email: your.email@example.com.
+For any questions, feel free to reach out via GitHub or email:chrisblessan72@gmail.com 
 
